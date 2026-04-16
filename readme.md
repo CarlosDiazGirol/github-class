@@ -6,3 +6,4 @@ git switch -c nueva-rama
 
 ## comprobar la rama
 git branch
+git
